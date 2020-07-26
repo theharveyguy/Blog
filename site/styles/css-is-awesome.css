@@ -1,0 +1,19 @@
+.box {
+  font-size:64px;
+  border:4px solid black;
+  padding:0px 3px;
+  width:223px;
+}
+
+body {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  margin:0;
+  padding:20px;
+  font-family:arial;
+  font-weight:bold;
+}
+
+* { box-sizing:border-box; }
