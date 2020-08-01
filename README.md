@@ -1,2 +1,2 @@
-# Blog the Hard Way
+# The Blog
  
